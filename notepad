@@ -1,0 +1,15 @@
+heroku config:set AUTH_KEY='h,#],/_&l^,VUA4@;qTNj_.Q^h)PllW>F}^BLwW?YE+:-#zW&c$@c.h9tT*V>y>8' \
+  SECURE_AUTH_KEY='dFS2S~*5r2@G#3^A-6oYz~0~n9B}DEhHnM,^++QZz#CQ+id/l+NH=:p+<rKSdjtL' \
+  LOGGED_IN_KEY='<[ld?J_A[-%6?x|crmqQ2gQEV|}gpM]%(oM>5zn+{L^8(I{ 3C>IZ -QK%zN~9?-' \
+  NONCE_KEY=‘'LRT>brY4Dh!:h&?tPJt~7%-se(RIA)DDN`lu8OQ -[I,.-/1Hfyil|hZ4-T/0#!o' \
+  AUTH_SALT='ss|gQzRNS/Y7sSx-K$bg-{p{#IOF4>+rL}?ea@Gz+DW=Kd6+#Qn*D-U@VTj|hoD!' \
+  SECURE_AUTH_SALT='w/I-!Ki^OYlt}GH!#iv)CT} u&| CjXv<5LbMpCINOOYu:aN?-:AsFKP-:q:-fN+' \
+  LOGGED_IN_SALT='9Z>3xW;cC{=$(@;b=|>V>)X<kr>#j*R}xXK:7|Vg+i-7aI$0Qm8}^8v:Kj?64-*f' \
+  NONCE_SALT='UbkEs|O`+&0oTEWU+[K:IxQv6/i$k7vrXtl[^RLU82O32^Vw5z?&.=3u$!]t.[BA'
+
+
+Wordpress password = |k!<evyytEr#viTQ[(7=fg#cz.p}#+Os1UN~j>mDD~(Dh#[.f5fe_iN67X7l1f#v
+
+Xyo moreeffectly wp password. = !v918VGAusdlOKobcv
+
+heroku run wp core install --url=moreffectly.herokuapp.com --title="WordPress on Heroku" --admin_user="admin" --admin_password="v918VGAusdlOKobcv" --admin_email="moreffectly@example.com"
