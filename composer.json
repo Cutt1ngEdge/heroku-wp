@@ -26,7 +26,11 @@
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
         "predis/predis": "~1.0",
-        "wp-cli/wp-cli": "^1.0"
+        "wp-cli/wp-cli": "^1.0",
+
+        "wpackagist-plugin/bbpress": "2.5.14",
+        "wpackagist-theme/zerif-lite":"1.8.5.43"
+
     },
     "suggest": {
         "wpackagist-plugin/cloudflare-cache-purge": "Purges cached pages on CF.",
